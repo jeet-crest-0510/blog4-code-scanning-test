@@ -1,0 +1,1 @@
+# blog4-code-scanning-test
