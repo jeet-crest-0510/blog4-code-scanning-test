@@ -1,3 +1,3 @@
 if __name__ == "__main__":
-printf("Hello World")
-print(Hello
+    print("Hello World")
+    print("Hello")
